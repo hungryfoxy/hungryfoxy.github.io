@@ -8,6 +8,10 @@ a {
     color: white;
 }
 
+a:hover {
+    background-color: pink;
+}
+
 .AAA2 {
     text-align: right;
     inset: 1em;
